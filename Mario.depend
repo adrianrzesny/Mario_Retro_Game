@@ -1,0 +1,1926 @@
+# depslib dependency file v1.0
+1495183886 source:l:\gra - szajerman\26.05.2017\framework_mario_levels_text\chimeny.cpp
+	"Chimeny.h"
+
+1495183860 l:\gra - szajerman\26.05.2017\framework_mario_levels_text\chimeny.h
+	"Entity.h"
+
+1495140864 l:\gra - szajerman\26.05.2017\framework_mario_levels_text\entity.h
+	"Sprite.h"
+	"ComponentManager.h"
+
+1386210566 l:\gra - szajerman\26.05.2017\framework_mario_levels_text\sprite.h
+	"float2.hpp"
+
+1386210566 l:\gra - szajerman\26.05.2017\framework_mario_levels_text\float2.hpp
+	<math.h>
+
+1495200904 l:\gra - szajerman\26.05.2017\framework_mario_levels_text\componentmanager.h
+	<iostream>
+	<list>
+
+1495705354 source:l:\gra - szajerman\26.05.2017\framework_mario_levels_text\coin.cpp
+	"Coin.h"
+	"ComponentManager.h"
+	"ResourceFactory.h"
+	"Terrain.h"
+	"Goomba.h"
+	"Chimeny.h"
+
+1495443746 l:\gra - szajerman\26.05.2017\framework_mario_levels_text\coin.h
+	"Entity.h"
+
+1386210566 l:\gra - szajerman\26.05.2017\framework_mario_levels_text\resourcefactory.h
+	<map>
+	"Texture2D.h"
+
+1386210566 l:\gra - szajerman\26.05.2017\framework_mario_levels_text\texture2d.h
+
+1495197694 l:\gra - szajerman\26.05.2017\framework_mario_levels_text\terrain.h
+	<iostream>
+	<vector>
+	"Sprite.h"
+
+1495701204 l:\gra - szajerman\26.05.2017\framework_mario_levels_text\goomba.h
+	"Entity.h"
+	<ctime>
+
+1386210566 source:l:\gra - szajerman\26.05.2017\framework_mario_levels_text\componentmanager.cpp
+	"ComponentManager.h"
+
+1495192772 source:l:\gra - szajerman\26.05.2017\framework_mario_levels_text\entity.cpp
+	<iostream>
+	"Entity.h"
+
+1495714204 source:l:\gra - szajerman\26.05.2017\framework_mario_levels_text\goomba.cpp
+	"Goomba.h"
+	"Coin.h"
+	"ResourceFactory.h"
+	"Terrain.h"
+	"Ret.h"
+	"Chimeny.h"
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<iostream>
+	"ComponentManager.h"
+	"Mario.h"
+	"Luigi.h"
+
+1495127244 l:\gra - szajerman\26.05.2017\framework_mario_levels_text\ret.h
+	"Entity.h"
+
+1495738706 l:\gra - szajerman\26.05.2017\framework_mario_levels_text\mario.h
+	"Entity.h"
+
+1495738710 l:\gra - szajerman\26.05.2017\framework_mario_levels_text\luigi.h
+	"Entity.h"
+
+1495739446 source:l:\gra - szajerman\26.05.2017\framework_mario_levels_text\luigi.cpp
+	<stdlib.h>
+	"Luigi.h"
+	"ResourceFactory.h"
+	"Terrain.h"
+	"Coin.h"
+	"Mario.h"
+	"Goomba.h"
+	"Power.h"
+	<gl/glut.h>
+
+1495201168 l:\gra - szajerman\26.05.2017\framework_mario_levels_text\power.h
+	"Entity.h"
+	<ctime>
+
+1495739446 source:l:\gra - szajerman\26.05.2017\framework_mario_levels_text\mario.cpp
+	<stdlib.h>
+	"Power.h"
+	"Mario.h"
+	"Luigi.h"
+	"ResourceFactory.h"
+	"Terrain.h"
+	"Coin.h"
+	"Goomba.h"
+	"Sprite.h"
+	"SpriteText.h"
+
+1495739914 l:\gra - szajerman\26.05.2017\framework_mario_levels_text\spritetext.h
+	"Sprite.h"
+	<string>
+
+1495100534 source:l:\gra - szajerman\26.05.2017\framework_mario_levels_text\player.cpp
+	<stdlib.h>
+	"Player.h"
+	"ResourceFactory.h"
+	"Terrain.h"
+	"Coin.h"
+	"Goomba.h"
+	<gl/glut.h>
+
+1495099534 l:\gra - szajerman\26.05.2017\framework_mario_levels_text\player.h
+	"Entity.h"
+
+1495802868 source:l:\gra - szajerman\26.05.2017\framework_mario_levels_text\portal.cpp
+	"Portal.h"
+	"Luigi.h"
+	"Mario.h"
+	"Goomba.h"
+	"Coin.h"
+	"fire.h"
+
+1495124622 l:\gra - szajerman\26.05.2017\framework_mario_levels_text\portal.h
+	"Entity.h"
+
+1495705308 source:l:\gra - szajerman\26.05.2017\framework_mario_levels_text\portalt.cpp
+	"PortalT.h"
+	"Luigi.h"
+	"Mario.h"
+	"Goomba.h"
+	"Coin.h"
+
+1495124742 l:\gra - szajerman\26.05.2017\framework_mario_levels_text\portalt.h
+	"Entity.h"
+
+1495798666 source:l:\gra - szajerman\26.05.2017\framework_mario_levels_text\power.cpp
+	"Power.h"
+	"Goomba.h"
+	"Goomba.h"
+	<ctime>
+
+1386210566 source:l:\gra - szajerman\26.05.2017\framework_mario_levels_text\resourcefactory.cpp
+	"ResourceFactory.h"
+	<iostream>
+
+1495444992 source:l:\gra - szajerman\26.05.2017\framework_mario_levels_text\ret.cpp
+	"Ret.h"
+	"Goomba.h"
+	"Coin.h"
+	<cstdlib>
+	<ctime>
+
+1495182726 source:l:\gra - szajerman\26.05.2017\framework_mario_levels_text\sky.cpp
+	"Sky.h"
+
+1495182660 l:\gra - szajerman\26.05.2017\framework_mario_levels_text\sky.h
+	"Entity.h"
+
+1386210566 source:l:\gra - szajerman\26.05.2017\framework_mario_levels_text\sprite.cpp
+	<windows.h>
+	<gl/gl.h>
+	"Sprite.h"
+	"Texture2D.h"
+
+1495739914 source:l:\gra - szajerman\26.05.2017\framework_mario_levels_text\spritetext.cpp
+	<gl/gl.h>
+	<sstream>
+	"SpriteText.h"
+
+1495802162 source:l:\gra - szajerman\26.05.2017\framework_mario_levels_text\terrain.cpp
+	"Terrain.h"
+	<windows.h>
+	<gl/gl.h>
+	<fstream>
+	<iostream>
+	"Power.h"
+	"fire.h"
+	"Ret.h"
+	"PortalT.h"
+	"Portal.h"
+	"Mario.h"
+	"Luigi.h"
+	"Coin.h"
+	"Sky.h"
+	"Chimeny.h"
+	"Goomba.h"
+	"ResourceFactory.h"
+
+1495186584 source:l:\gra - szajerman\26.05.2017\framework_mario_levels_text\texture2d.cpp
+	<windows.h>
+	<gl/gl.h>
+	<iostream>
+	<fstream>
+	"Texture2D.h"
+
+1495802452 source:l:\gra - szajerman\26.05.2017\framework_mario_levels_text\main.cpp
+	<windows.h>
+	<gl/glut.h>
+	<iostream>
+	<sstream>
+	"Sprite.h"
+	"Power.h"
+	"Luigi.h"
+	"Goomba.h"
+	"Mario.h"
+	"ComponentManager.h"
+	"ResourceFactory.h"
+	"Terrain.h"
+	"Coin.h"
+	"fire.h"
+	"SpriteText.h"
+
+1495802324 source:l:\gra - szajerman\26.05.2017\framework_mario_levels_text\fire.cpp
+	"fire.h"
+	"ComponentManager.h"
+	"ResourceFactory.h"
+	"Terrain.h"
+	"Goomba.h"
+	"Chimeny.h"
+	<cmath>
+	<ctime>
+
+1495803088 l:\gra - szajerman\26.05.2017\framework_mario_levels_text\fire.h
+	"Entity.h"
+
+1495183886 source:g:\gra - szajerman\26.05.2017\framework_mario_levels_text\chimeny.cpp
+	"Chimeny.h"
+
+1495183860 g:\gra - szajerman\26.05.2017\framework_mario_levels_text\chimeny.h
+	"Entity.h"
+
+1495140864 g:\gra - szajerman\26.05.2017\framework_mario_levels_text\entity.h
+	"Sprite.h"
+	"ComponentManager.h"
+
+1386210566 g:\gra - szajerman\26.05.2017\framework_mario_levels_text\sprite.h
+	"float2.hpp"
+
+1386210566 g:\gra - szajerman\26.05.2017\framework_mario_levels_text\float2.hpp
+	<math.h>
+
+1341006774 c:\program files (x86)\codeblocks\mingw\include\math.h
+	<_mingw.h>
+
+1341006770 c:\program files (x86)\codeblocks\mingw\include\_mingw.h
+
+1495200904 g:\gra - szajerman\26.05.2017\framework_mario_levels_text\componentmanager.h
+	<iostream>
+	<list>
+
+1495705354 source:g:\gra - szajerman\26.05.2017\framework_mario_levels_text\coin.cpp
+	"Coin.h"
+	"ComponentManager.h"
+	"ResourceFactory.h"
+	"Terrain.h"
+	"Goomba.h"
+	"Chimeny.h"
+
+1495443746 g:\gra - szajerman\26.05.2017\framework_mario_levels_text\coin.h
+	"Entity.h"
+
+1386210566 g:\gra - szajerman\26.05.2017\framework_mario_levels_text\resourcefactory.h
+	<map>
+	"Texture2D.h"
+
+1386210566 g:\gra - szajerman\26.05.2017\framework_mario_levels_text\texture2d.h
+
+1495197694 g:\gra - szajerman\26.05.2017\framework_mario_levels_text\terrain.h
+	<iostream>
+	<vector>
+	"Sprite.h"
+
+1495701204 g:\gra - szajerman\26.05.2017\framework_mario_levels_text\goomba.h
+	"Entity.h"
+	<ctime>
+
+1386210566 source:g:\gra - szajerman\26.05.2017\framework_mario_levels_text\componentmanager.cpp
+	"ComponentManager.h"
+
+1495192772 source:g:\gra - szajerman\26.05.2017\framework_mario_levels_text\entity.cpp
+	<iostream>
+	"Entity.h"
+
+1495803136 source:g:\gra - szajerman\26.05.2017\framework_mario_levels_text\fire.cpp
+	"fire.h"
+	"ComponentManager.h"
+	"ResourceFactory.h"
+	"Terrain.h"
+	"Goomba.h"
+	"Chimeny.h"
+	<cmath>
+	<ctime>
+
+1495803088 g:\gra - szajerman\26.05.2017\framework_mario_levels_text\fire.h
+	"Entity.h"
+
+1495714204 source:g:\gra - szajerman\26.05.2017\framework_mario_levels_text\goomba.cpp
+	"Goomba.h"
+	"Coin.h"
+	"ResourceFactory.h"
+	"Terrain.h"
+	"Ret.h"
+	"Chimeny.h"
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<iostream>
+	"ComponentManager.h"
+	"Mario.h"
+	"Luigi.h"
+
+1495127244 g:\gra - szajerman\26.05.2017\framework_mario_levels_text\ret.h
+	"Entity.h"
+
+1495738706 g:\gra - szajerman\26.05.2017\framework_mario_levels_text\mario.h
+	"Entity.h"
+
+1495738710 g:\gra - szajerman\26.05.2017\framework_mario_levels_text\luigi.h
+	"Entity.h"
+
+1495739446 source:g:\gra - szajerman\26.05.2017\framework_mario_levels_text\luigi.cpp
+	<stdlib.h>
+	"Luigi.h"
+	"ResourceFactory.h"
+	"Terrain.h"
+	"Coin.h"
+	"Mario.h"
+	"Goomba.h"
+	"Power.h"
+	<gl/glut.h>
+
+1341006776 c:\program files (x86)\codeblocks\mingw\include\stdlib.h
+	<_mingw.h>
+	<stddef.h>
+
+1495201168 g:\gra - szajerman\26.05.2017\framework_mario_levels_text\power.h
+	"Entity.h"
+	<ctime>
+
+1494873761 c:\program files (x86)\codeblocks\mingw\include\gl\glut.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1301114762 c:\program files (x86)\codeblocks\mingw\include\windows.h
+	<winresrc.h>
+	<stdarg.h>
+	<windef.h>
+	<wincon.h>
+	<winbase.h>
+	<wingdi.h>
+	<winuser.h>
+	<winnls.h>
+	<winver.h>
+	<winnetwk.h>
+	<winreg.h>
+	<winsvc.h>
+	<cderr.h>
+	<dde.h>
+	<ddeml.h>
+	<dlgs.h>
+	<imm.h>
+	<lzexpand.h>
+	<mmsystem.h>
+	<nb30.h>
+	<rpc.h>
+	<shellapi.h>
+	<winperf.h>
+	<commdlg.h>
+	<winspool.h>
+	<winsock2.h>
+	<winsock.h>
+	<ole2.h>
+
+1301114762 c:\program files (x86)\codeblocks\mingw\include\winresrc.h
+	<winuser.h>
+	<winnt.h>
+	<winver.h>
+	<dde.h>
+	<dlgs.h>
+	<commctrl.h>
+
+1301114764 c:\program files (x86)\codeblocks\mingw\include\winuser.h
+
+1301114762 c:\program files (x86)\codeblocks\mingw\include\winnt.h
+	<winerror.h>
+	<string.h>
+	<basetsd.h>
+	<pshpack4.h>
+	<poppack.h>
+
+1301114762 c:\program files (x86)\codeblocks\mingw\include\winerror.h
+
+1341006776 c:\program files (x86)\codeblocks\mingw\include\string.h
+	<_mingw.h>
+	<stddef.h>
+
+1301114748 c:\program files (x86)\codeblocks\mingw\include\basetsd.h
+
+1301114756 c:\program files (x86)\codeblocks\mingw\include\pshpack4.h
+
+1301114756 c:\program files (x86)\codeblocks\mingw\include\poppack.h
+
+1301114764 c:\program files (x86)\codeblocks\mingw\include\winver.h
+
+1301114748 c:\program files (x86)\codeblocks\mingw\include\dde.h
+
+1301114750 c:\program files (x86)\codeblocks\mingw\include\dlgs.h
+
+1301114748 c:\program files (x86)\codeblocks\mingw\include\commctrl.h
+	<prsht.h>
+
+1301114756 c:\program files (x86)\codeblocks\mingw\include\prsht.h
+
+1301114762 c:\program files (x86)\codeblocks\mingw\include\windef.h
+	<winnt.h>
+
+1301114762 c:\program files (x86)\codeblocks\mingw\include\wincon.h
+
+1301114760 c:\program files (x86)\codeblocks\mingw\include\winbase.h
+
+1301114762 c:\program files (x86)\codeblocks\mingw\include\wingdi.h
+
+1301114762 c:\program files (x86)\codeblocks\mingw\include\winnls.h
+
+1301114762 c:\program files (x86)\codeblocks\mingw\include\winnetwk.h
+
+1301114762 c:\program files (x86)\codeblocks\mingw\include\winreg.h
+
+1301114764 c:\program files (x86)\codeblocks\mingw\include\winsvc.h
+
+1301114748 c:\program files (x86)\codeblocks\mingw\include\cderr.h
+
+1301114748 c:\program files (x86)\codeblocks\mingw\include\ddeml.h
+
+1301114750 c:\program files (x86)\codeblocks\mingw\include\imm.h
+
+1301114754 c:\program files (x86)\codeblocks\mingw\include\lzexpand.h
+
+1301114754 c:\program files (x86)\codeblocks\mingw\include\mmsystem.h
+
+1301114754 c:\program files (x86)\codeblocks\mingw\include\nb30.h
+
+1301114758 c:\program files (x86)\codeblocks\mingw\include\rpc.h
+	<windows.h>
+	<rpcdce.h>
+	<rpcnsi.h>
+	<rpcnterr.h>
+	<winerror.h>
+	<excpt.h>
+
+1301114758 c:\program files (x86)\codeblocks\mingw\include\rpcdce.h
+	<basetyps.h>
+	<rpcdcep.h>
+
+1301114748 c:\program files (x86)\codeblocks\mingw\include\basetyps.h
+
+1301114758 c:\program files (x86)\codeblocks\mingw\include\rpcdcep.h
+
+1301114758 c:\program files (x86)\codeblocks\mingw\include\rpcnsi.h
+
+1301114758 c:\program files (x86)\codeblocks\mingw\include\rpcnterr.h
+
+1341006772 c:\program files (x86)\codeblocks\mingw\include\excpt.h
+	<_mingw.h>
+	<windef.h>
+
+1301114760 c:\program files (x86)\codeblocks\mingw\include\shellapi.h
+	<pshpack2.h>
+	<poppack.h>
+
+1301114756 c:\program files (x86)\codeblocks\mingw\include\pshpack2.h
+
+1301114762 c:\program files (x86)\codeblocks\mingw\include\winperf.h
+
+1301114748 c:\program files (x86)\codeblocks\mingw\include\commdlg.h
+	<unknwn.h>
+	<prsht.h>
+
+1301114760 c:\program files (x86)\codeblocks\mingw\include\unknwn.h
+	<windows.h>
+	<objfwd.h>
+	<wtypes.h>
+
+1301114756 c:\program files (x86)\codeblocks\mingw\include\objfwd.h
+	<basetyps.h>
+
+1301114764 c:\program files (x86)\codeblocks\mingw\include\wtypes.h
+	<rpc.h>
+	<rpcndr.h>
+
+1301114758 c:\program files (x86)\codeblocks\mingw\include\rpcndr.h
+	<rpcnsip.h>
+	<objfwd.h>
+
+1301114758 c:\program files (x86)\codeblocks\mingw\include\rpcnsip.h
+
+1301114762 c:\program files (x86)\codeblocks\mingw\include\winspool.h
+
+1301114762 c:\program files (x86)\codeblocks\mingw\include\winsock2.h
+	<windows.h>
+
+1301114762 c:\program files (x86)\codeblocks\mingw\include\winsock.h
+	<windows.h>
+	<mswsock.h>
+
+1301114754 c:\program files (x86)\codeblocks\mingw\include\mswsock.h
+
+1301114756 c:\program files (x86)\codeblocks\mingw\include\ole2.h
+	<winerror.h>
+	<objbase.h>
+	<olectlid.h>
+	<oleauto.h>
+	<oleidl.h>
+
+1301114754 c:\program files (x86)\codeblocks\mingw\include\objbase.h
+	<rpc.h>
+	<rpcndr.h>
+	<stdlib.h>
+	<basetyps.h>
+	<wtypes.h>
+	<unknwn.h>
+	<objidl.h>
+	<cguid.h>
+
+1301114756 c:\program files (x86)\codeblocks\mingw\include\objidl.h
+	<objfwd.h>
+
+1301114748 c:\program files (x86)\codeblocks\mingw\include\cguid.h
+
+1301114756 c:\program files (x86)\codeblocks\mingw\include\olectlid.h
+
+1301114756 c:\program files (x86)\codeblocks\mingw\include\oleauto.h
+	<oaidl.h>
+
+1301114754 c:\program files (x86)\codeblocks\mingw\include\oaidl.h
+	<windows.h>
+	<ole2.h>
+
+1301114756 c:\program files (x86)\codeblocks\mingw\include\oleidl.h
+	<objfwd.h>
+
+1301114764 c:\program files (x86)\codeblocks\mingw\include\gl\gl.h
+
+1301114764 c:\program files (x86)\codeblocks\mingw\include\gl\glu.h
+	<stddef.h>
+	<GL/gl.h>
+
+1495802452 source:g:\gra - szajerman\26.05.2017\framework_mario_levels_text\main.cpp
+	<windows.h>
+	<gl/glut.h>
+	<iostream>
+	<sstream>
+	"Sprite.h"
+	"Power.h"
+	"Luigi.h"
+	"Goomba.h"
+	"Mario.h"
+	"ComponentManager.h"
+	"ResourceFactory.h"
+	"Terrain.h"
+	"Coin.h"
+	"fire.h"
+	"SpriteText.h"
+
+1495739914 g:\gra - szajerman\26.05.2017\framework_mario_levels_text\spritetext.h
+	"Sprite.h"
+	<string>
+
+1495739446 source:g:\gra - szajerman\26.05.2017\framework_mario_levels_text\mario.cpp
+	<stdlib.h>
+	"Power.h"
+	"Mario.h"
+	"Luigi.h"
+	"ResourceFactory.h"
+	"Terrain.h"
+	"Coin.h"
+	"Goomba.h"
+	"Sprite.h"
+	"SpriteText.h"
+
+1495100534 source:g:\gra - szajerman\26.05.2017\framework_mario_levels_text\player.cpp
+	<stdlib.h>
+	"Player.h"
+	"ResourceFactory.h"
+	"Terrain.h"
+	"Coin.h"
+	"Goomba.h"
+	<gl/glut.h>
+
+1495099534 g:\gra - szajerman\26.05.2017\framework_mario_levels_text\player.h
+	"Entity.h"
+
+1495802868 source:g:\gra - szajerman\26.05.2017\framework_mario_levels_text\portal.cpp
+	"Portal.h"
+	"Luigi.h"
+	"Mario.h"
+	"Goomba.h"
+	"Coin.h"
+	"fire.h"
+
+1495124622 g:\gra - szajerman\26.05.2017\framework_mario_levels_text\portal.h
+	"Entity.h"
+
+1495705308 source:g:\gra - szajerman\26.05.2017\framework_mario_levels_text\portalt.cpp
+	"PortalT.h"
+	"Luigi.h"
+	"Mario.h"
+	"Goomba.h"
+	"Coin.h"
+
+1495124742 g:\gra - szajerman\26.05.2017\framework_mario_levels_text\portalt.h
+	"Entity.h"
+
+1495798666 source:g:\gra - szajerman\26.05.2017\framework_mario_levels_text\power.cpp
+	"Power.h"
+	"Goomba.h"
+	"Goomba.h"
+	<ctime>
+
+1386210566 source:g:\gra - szajerman\26.05.2017\framework_mario_levels_text\resourcefactory.cpp
+	"ResourceFactory.h"
+	<iostream>
+
+1495444992 source:g:\gra - szajerman\26.05.2017\framework_mario_levels_text\ret.cpp
+	"Ret.h"
+	"Goomba.h"
+	"Coin.h"
+	<cstdlib>
+	<ctime>
+
+1495182726 source:g:\gra - szajerman\26.05.2017\framework_mario_levels_text\sky.cpp
+	"Sky.h"
+
+1495182660 g:\gra - szajerman\26.05.2017\framework_mario_levels_text\sky.h
+	"Entity.h"
+
+1386210566 source:g:\gra - szajerman\26.05.2017\framework_mario_levels_text\sprite.cpp
+	<windows.h>
+	<gl/gl.h>
+	"Sprite.h"
+	"Texture2D.h"
+
+1495739914 source:g:\gra - szajerman\26.05.2017\framework_mario_levels_text\spritetext.cpp
+	<gl/gl.h>
+	<sstream>
+	"SpriteText.h"
+
+1495802162 source:g:\gra - szajerman\26.05.2017\framework_mario_levels_text\terrain.cpp
+	"Terrain.h"
+	<windows.h>
+	<gl/gl.h>
+	<fstream>
+	<iostream>
+	"Power.h"
+	"fire.h"
+	"Ret.h"
+	"PortalT.h"
+	"Portal.h"
+	"Mario.h"
+	"Luigi.h"
+	"Coin.h"
+	"Sky.h"
+	"Chimeny.h"
+	"Goomba.h"
+	"ResourceFactory.h"
+
+1495186584 source:g:\gra - szajerman\26.05.2017\framework_mario_levels_text\texture2d.cpp
+	<windows.h>
+	<gl/gl.h>
+	<iostream>
+	<fstream>
+	"Texture2D.h"
+
+1495183886 source:c:\users\user\desktop\gra - szajerman\26.05.2017 - kopia\framework_mario_levels_text\chimeny.cpp
+	"Chimeny.h"
+
+1495183860 c:\users\user\desktop\gra - szajerman\26.05.2017 - kopia\framework_mario_levels_text\chimeny.h
+	"Entity.h"
+
+1495140864 c:\users\user\desktop\gra - szajerman\26.05.2017 - kopia\framework_mario_levels_text\entity.h
+	"Sprite.h"
+	"ComponentManager.h"
+
+1386210566 c:\users\user\desktop\gra - szajerman\26.05.2017 - kopia\framework_mario_levels_text\sprite.h
+	"float2.hpp"
+
+1386210566 c:\users\user\desktop\gra - szajerman\26.05.2017 - kopia\framework_mario_levels_text\float2.hpp
+	<math.h>
+
+1495200904 c:\users\user\desktop\gra - szajerman\26.05.2017 - kopia\framework_mario_levels_text\componentmanager.h
+	<iostream>
+	<list>
+
+1495705354 source:c:\users\user\desktop\gra - szajerman\26.05.2017 - kopia\framework_mario_levels_text\coin.cpp
+	"Coin.h"
+	"ComponentManager.h"
+	"ResourceFactory.h"
+	"Terrain.h"
+	"Goomba.h"
+	"Chimeny.h"
+
+1495443746 c:\users\user\desktop\gra - szajerman\26.05.2017 - kopia\framework_mario_levels_text\coin.h
+	"Entity.h"
+
+1386210566 c:\users\user\desktop\gra - szajerman\26.05.2017 - kopia\framework_mario_levels_text\resourcefactory.h
+	<map>
+	"Texture2D.h"
+
+1386210566 c:\users\user\desktop\gra - szajerman\26.05.2017 - kopia\framework_mario_levels_text\texture2d.h
+
+1495197694 c:\users\user\desktop\gra - szajerman\26.05.2017 - kopia\framework_mario_levels_text\terrain.h
+	<iostream>
+	<vector>
+	"Sprite.h"
+
+1495701204 c:\users\user\desktop\gra - szajerman\26.05.2017 - kopia\framework_mario_levels_text\goomba.h
+	"Entity.h"
+	<ctime>
+
+1386210566 source:c:\users\user\desktop\gra - szajerman\26.05.2017 - kopia\framework_mario_levels_text\componentmanager.cpp
+	"ComponentManager.h"
+
+1495192772 source:c:\users\user\desktop\gra - szajerman\26.05.2017 - kopia\framework_mario_levels_text\entity.cpp
+	<iostream>
+	"Entity.h"
+
+1495714204 source:c:\users\user\desktop\gra - szajerman\26.05.2017 - kopia\framework_mario_levels_text\goomba.cpp
+	"Goomba.h"
+	"Coin.h"
+	"ResourceFactory.h"
+	"Terrain.h"
+	"Ret.h"
+	"Chimeny.h"
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<iostream>
+	"ComponentManager.h"
+	"Mario.h"
+	"Luigi.h"
+
+1495127244 c:\users\user\desktop\gra - szajerman\26.05.2017 - kopia\framework_mario_levels_text\ret.h
+	"Entity.h"
+
+1495738706 c:\users\user\desktop\gra - szajerman\26.05.2017 - kopia\framework_mario_levels_text\mario.h
+	"Entity.h"
+
+1495738710 c:\users\user\desktop\gra - szajerman\26.05.2017 - kopia\framework_mario_levels_text\luigi.h
+	"Entity.h"
+
+1495824775 source:c:\users\user\desktop\gra - szajerman\26.05.2017 - kopia\framework_mario_levels_text\luigi.cpp
+	<stdlib.h>
+	"Luigi.h"
+	"ResourceFactory.h"
+	"Terrain.h"
+	"Coin.h"
+	"Mario.h"
+	"Goomba.h"
+	"Power.h"
+	"fire.h"
+	"fireone.h"
+	<gl/glut.h>
+
+1495201168 c:\users\user\desktop\gra - szajerman\26.05.2017 - kopia\framework_mario_levels_text\power.h
+	"Entity.h"
+	<ctime>
+
+1495825003 source:c:\users\user\desktop\gra - szajerman\26.05.2017 - kopia\framework_mario_levels_text\main.cpp
+	<windows.h>
+	<gl/glut.h>
+	<iostream>
+	<sstream>
+	"Sprite.h"
+	"Power.h"
+	"Luigi.h"
+	"Goomba.h"
+	"Mario.h"
+	"ComponentManager.h"
+	"ResourceFactory.h"
+	"Terrain.h"
+	"Coin.h"
+	"fire.h"
+	"SpriteText.h"
+
+1495824499 c:\users\user\desktop\gra - szajerman\26.05.2017 - kopia\framework_mario_levels_text\fire.h
+	"Entity.h"
+
+1495739914 c:\users\user\desktop\gra - szajerman\26.05.2017 - kopia\framework_mario_levels_text\spritetext.h
+	"Sprite.h"
+	<string>
+
+1495824849 source:c:\users\user\desktop\gra - szajerman\26.05.2017 - kopia\framework_mario_levels_text\mario.cpp
+	<stdlib.h>
+	"Power.h"
+	"Mario.h"
+	"Luigi.h"
+	"ResourceFactory.h"
+	"Terrain.h"
+	"Coin.h"
+	"Goomba.h"
+	"Sprite.h"
+	"SpriteText.h"
+	"fire.h"
+	"fireone.h"
+
+1495100534 source:c:\users\user\desktop\gra - szajerman\26.05.2017 - kopia\framework_mario_levels_text\player.cpp
+	<stdlib.h>
+	"Player.h"
+	"ResourceFactory.h"
+	"Terrain.h"
+	"Coin.h"
+	"Goomba.h"
+	<gl/glut.h>
+
+1495099534 c:\users\user\desktop\gra - szajerman\26.05.2017 - kopia\framework_mario_levels_text\player.h
+	"Entity.h"
+
+1495802868 source:c:\users\user\desktop\gra - szajerman\26.05.2017 - kopia\framework_mario_levels_text\portal.cpp
+	"Portal.h"
+	"Luigi.h"
+	"Mario.h"
+	"Goomba.h"
+	"Coin.h"
+	"fire.h"
+
+1495124622 c:\users\user\desktop\gra - szajerman\26.05.2017 - kopia\framework_mario_levels_text\portal.h
+	"Entity.h"
+
+1495705308 source:c:\users\user\desktop\gra - szajerman\26.05.2017 - kopia\framework_mario_levels_text\portalt.cpp
+	"PortalT.h"
+	"Luigi.h"
+	"Mario.h"
+	"Goomba.h"
+	"Coin.h"
+
+1495124742 c:\users\user\desktop\gra - szajerman\26.05.2017 - kopia\framework_mario_levels_text\portalt.h
+	"Entity.h"
+
+1495798666 source:c:\users\user\desktop\gra - szajerman\26.05.2017 - kopia\framework_mario_levels_text\power.cpp
+	"Power.h"
+	"Goomba.h"
+	"Goomba.h"
+	<ctime>
+
+1386210566 source:c:\users\user\desktop\gra - szajerman\26.05.2017 - kopia\framework_mario_levels_text\resourcefactory.cpp
+	"ResourceFactory.h"
+	<iostream>
+
+1495444992 source:c:\users\user\desktop\gra - szajerman\26.05.2017 - kopia\framework_mario_levels_text\ret.cpp
+	"Ret.h"
+	"Goomba.h"
+	"Coin.h"
+	<cstdlib>
+	<ctime>
+
+1495182726 source:c:\users\user\desktop\gra - szajerman\26.05.2017 - kopia\framework_mario_levels_text\sky.cpp
+	"Sky.h"
+
+1495182660 c:\users\user\desktop\gra - szajerman\26.05.2017 - kopia\framework_mario_levels_text\sky.h
+	"Entity.h"
+
+1386210566 source:c:\users\user\desktop\gra - szajerman\26.05.2017 - kopia\framework_mario_levels_text\sprite.cpp
+	<windows.h>
+	<gl/gl.h>
+	"Sprite.h"
+	"Texture2D.h"
+
+1495739914 source:c:\users\user\desktop\gra - szajerman\26.05.2017 - kopia\framework_mario_levels_text\spritetext.cpp
+	<gl/gl.h>
+	<sstream>
+	"SpriteText.h"
+
+1495186584 source:c:\users\user\desktop\gra - szajerman\26.05.2017 - kopia\framework_mario_levels_text\texture2d.cpp
+	<windows.h>
+	<gl/gl.h>
+	<iostream>
+	<fstream>
+	"Texture2D.h"
+
+1495824280 source:c:\users\user\desktop\gra - szajerman\26.05.2017 - kopia\framework_mario_levels_text\fire.cpp
+	"fire.h"
+	"ComponentManager.h"
+	"ResourceFactory.h"
+	"Terrain.h"
+	"Goomba.h"
+	"Chimeny.h"
+	<cmath>
+	<ctime>
+
+1495824614 source:c:\users\user\desktop\gra - szajerman\26.05.2017 - kopia\framework_mario_levels_text\fireone.cpp
+	"fireone.h"
+	"ComponentManager.h"
+	"ResourceFactory.h"
+	"Terrain.h"
+	"Goomba.h"
+	"Chimeny.h"
+	<cmath>
+	<ctime>
+
+1495824587 c:\users\user\desktop\gra - szajerman\26.05.2017 - kopia\framework_mario_levels_text\fireone.h
+	"Entity.h"
+
+1495825048 source:c:\users\user\desktop\gra - szajerman\26.05.2017 - kopia\framework_mario_levels_text\terrain.cpp
+	"Terrain.h"
+	<windows.h>
+	<gl/gl.h>
+	<fstream>
+	<iostream>
+	"Power.h"
+	"fire.h"
+	"fireone.h"
+	"Ret.h"
+	"PortalT.h"
+	"Portal.h"
+	"Mario.h"
+	"Luigi.h"
+	"Coin.h"
+	"Sky.h"
+	"Chimeny.h"
+	"Goomba.h"
+	"ResourceFactory.h"
+
+1495183886 source:c:\users\user\desktop\gra - szajerman\26.05.2017 vol.3\framework_mario_levels_text\chimeny.cpp
+	"Chimeny.h"
+
+1495183860 c:\users\user\desktop\gra - szajerman\26.05.2017 vol.3\framework_mario_levels_text\chimeny.h
+	"Entity.h"
+
+1495140864 c:\users\user\desktop\gra - szajerman\26.05.2017 vol.3\framework_mario_levels_text\entity.h
+	"Sprite.h"
+	"ComponentManager.h"
+
+1386210566 c:\users\user\desktop\gra - szajerman\26.05.2017 vol.3\framework_mario_levels_text\sprite.h
+	"float2.hpp"
+
+1386210566 c:\users\user\desktop\gra - szajerman\26.05.2017 vol.3\framework_mario_levels_text\float2.hpp
+	<math.h>
+
+1495200904 c:\users\user\desktop\gra - szajerman\26.05.2017 vol.3\framework_mario_levels_text\componentmanager.h
+	<iostream>
+	<list>
+
+1495705354 source:c:\users\user\desktop\gra - szajerman\26.05.2017 vol.3\framework_mario_levels_text\coin.cpp
+	"Coin.h"
+	"ComponentManager.h"
+	"ResourceFactory.h"
+	"Terrain.h"
+	"Goomba.h"
+	"Chimeny.h"
+
+1495443746 c:\users\user\desktop\gra - szajerman\26.05.2017 vol.3\framework_mario_levels_text\coin.h
+	"Entity.h"
+
+1386210566 c:\users\user\desktop\gra - szajerman\26.05.2017 vol.3\framework_mario_levels_text\resourcefactory.h
+	<map>
+	"Texture2D.h"
+
+1386210566 c:\users\user\desktop\gra - szajerman\26.05.2017 vol.3\framework_mario_levels_text\texture2d.h
+
+1495197694 c:\users\user\desktop\gra - szajerman\26.05.2017 vol.3\framework_mario_levels_text\terrain.h
+	<iostream>
+	<vector>
+	"Sprite.h"
+
+1495701204 c:\users\user\desktop\gra - szajerman\26.05.2017 vol.3\framework_mario_levels_text\goomba.h
+	"Entity.h"
+	<ctime>
+
+1386210566 source:c:\users\user\desktop\gra - szajerman\26.05.2017 vol.3\framework_mario_levels_text\componentmanager.cpp
+	"ComponentManager.h"
+
+1495192772 source:c:\users\user\desktop\gra - szajerman\26.05.2017 vol.3\framework_mario_levels_text\entity.cpp
+	<iostream>
+	"Entity.h"
+
+1495824280 source:c:\users\user\desktop\gra - szajerman\26.05.2017 vol.3\framework_mario_levels_text\fire.cpp
+	"fire.h"
+	"ComponentManager.h"
+	"ResourceFactory.h"
+	"Terrain.h"
+	"Goomba.h"
+	"Chimeny.h"
+	<cmath>
+	<ctime>
+
+1495824499 c:\users\user\desktop\gra - szajerman\26.05.2017 vol.3\framework_mario_levels_text\fire.h
+	"Entity.h"
+
+1495824614 source:c:\users\user\desktop\gra - szajerman\26.05.2017 vol.3\framework_mario_levels_text\fireone.cpp
+	"fireone.h"
+	"ComponentManager.h"
+	"ResourceFactory.h"
+	"Terrain.h"
+	"Goomba.h"
+	"Chimeny.h"
+	<cmath>
+	<ctime>
+
+1495824587 c:\users\user\desktop\gra - szajerman\26.05.2017 vol.3\framework_mario_levels_text\fireone.h
+	"Entity.h"
+
+1495714204 source:c:\users\user\desktop\gra - szajerman\26.05.2017 vol.3\framework_mario_levels_text\goomba.cpp
+	"Goomba.h"
+	"Coin.h"
+	"ResourceFactory.h"
+	"Terrain.h"
+	"Ret.h"
+	"Chimeny.h"
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<iostream>
+	"ComponentManager.h"
+	"Mario.h"
+	"Luigi.h"
+
+1495127244 c:\users\user\desktop\gra - szajerman\26.05.2017 vol.3\framework_mario_levels_text\ret.h
+	"Entity.h"
+
+1495738706 c:\users\user\desktop\gra - szajerman\26.05.2017 vol.3\framework_mario_levels_text\mario.h
+	"Entity.h"
+
+1495738710 c:\users\user\desktop\gra - szajerman\26.05.2017 vol.3\framework_mario_levels_text\luigi.h
+	"Entity.h"
+
+1495824775 source:c:\users\user\desktop\gra - szajerman\26.05.2017 vol.3\framework_mario_levels_text\luigi.cpp
+	<stdlib.h>
+	"Luigi.h"
+	"ResourceFactory.h"
+	"Terrain.h"
+	"Coin.h"
+	"Mario.h"
+	"Goomba.h"
+	"Power.h"
+	"fire.h"
+	"fireone.h"
+	<gl/glut.h>
+
+1495201168 c:\users\user\desktop\gra - szajerman\26.05.2017 vol.3\framework_mario_levels_text\power.h
+	"Entity.h"
+	<ctime>
+
+1495826419 source:c:\users\user\desktop\gra - szajerman\26.05.2017 vol.3\framework_mario_levels_text\main.cpp
+	<windows.h>
+	<gl/glut.h>
+	<iostream>
+	<sstream>
+	"Sprite.h"
+	"Power.h"
+	"Luigi.h"
+	"Goomba.h"
+	"Mario.h"
+	"ComponentManager.h"
+	"ResourceFactory.h"
+	"Terrain.h"
+	"Coin.h"
+	"fire.h"
+	"SpriteText.h"
+
+1495739914 c:\users\user\desktop\gra - szajerman\26.05.2017 vol.3\framework_mario_levels_text\spritetext.h
+	"Sprite.h"
+	<string>
+
+1495824849 source:c:\users\user\desktop\gra - szajerman\26.05.2017 vol.3\framework_mario_levels_text\mario.cpp
+	<stdlib.h>
+	"Power.h"
+	"Mario.h"
+	"Luigi.h"
+	"ResourceFactory.h"
+	"Terrain.h"
+	"Coin.h"
+	"Goomba.h"
+	"Sprite.h"
+	"SpriteText.h"
+	"fire.h"
+	"fireone.h"
+
+1495100534 source:c:\users\user\desktop\gra - szajerman\26.05.2017 vol.3\framework_mario_levels_text\player.cpp
+	<stdlib.h>
+	"Player.h"
+	"ResourceFactory.h"
+	"Terrain.h"
+	"Coin.h"
+	"Goomba.h"
+	<gl/glut.h>
+
+1495099534 c:\users\user\desktop\gra - szajerman\26.05.2017 vol.3\framework_mario_levels_text\player.h
+	"Entity.h"
+
+1495802868 source:c:\users\user\desktop\gra - szajerman\26.05.2017 vol.3\framework_mario_levels_text\portal.cpp
+	"Portal.h"
+	"Luigi.h"
+	"Mario.h"
+	"Goomba.h"
+	"Coin.h"
+	"fire.h"
+
+1495124622 c:\users\user\desktop\gra - szajerman\26.05.2017 vol.3\framework_mario_levels_text\portal.h
+	"Entity.h"
+
+1495705308 source:c:\users\user\desktop\gra - szajerman\26.05.2017 vol.3\framework_mario_levels_text\portalt.cpp
+	"PortalT.h"
+	"Luigi.h"
+	"Mario.h"
+	"Goomba.h"
+	"Coin.h"
+
+1495124742 c:\users\user\desktop\gra - szajerman\26.05.2017 vol.3\framework_mario_levels_text\portalt.h
+	"Entity.h"
+
+1495798666 source:c:\users\user\desktop\gra - szajerman\26.05.2017 vol.3\framework_mario_levels_text\power.cpp
+	"Power.h"
+	"Goomba.h"
+	"Goomba.h"
+	<ctime>
+
+1386210566 source:c:\users\user\desktop\gra - szajerman\26.05.2017 vol.3\framework_mario_levels_text\resourcefactory.cpp
+	"ResourceFactory.h"
+	<iostream>
+
+1495444992 source:c:\users\user\desktop\gra - szajerman\26.05.2017 vol.3\framework_mario_levels_text\ret.cpp
+	"Ret.h"
+	"Goomba.h"
+	"Coin.h"
+	<cstdlib>
+	<ctime>
+
+1495182726 source:c:\users\user\desktop\gra - szajerman\26.05.2017 vol.3\framework_mario_levels_text\sky.cpp
+	"Sky.h"
+
+1495182660 c:\users\user\desktop\gra - szajerman\26.05.2017 vol.3\framework_mario_levels_text\sky.h
+	"Entity.h"
+
+1386210566 source:c:\users\user\desktop\gra - szajerman\26.05.2017 vol.3\framework_mario_levels_text\sprite.cpp
+	<windows.h>
+	<gl/gl.h>
+	"Sprite.h"
+	"Texture2D.h"
+
+1495739914 source:c:\users\user\desktop\gra - szajerman\26.05.2017 vol.3\framework_mario_levels_text\spritetext.cpp
+	<gl/gl.h>
+	<sstream>
+	"SpriteText.h"
+
+1495825048 source:c:\users\user\desktop\gra - szajerman\26.05.2017 vol.3\framework_mario_levels_text\terrain.cpp
+	"Terrain.h"
+	<windows.h>
+	<gl/gl.h>
+	<fstream>
+	<iostream>
+	"Power.h"
+	"fire.h"
+	"fireone.h"
+	"Ret.h"
+	"PortalT.h"
+	"Portal.h"
+	"Mario.h"
+	"Luigi.h"
+	"Coin.h"
+	"Sky.h"
+	"Chimeny.h"
+	"Goomba.h"
+	"ResourceFactory.h"
+
+1495186584 source:c:\users\user\desktop\gra - szajerman\26.05.2017 vol.3\framework_mario_levels_text\texture2d.cpp
+	<windows.h>
+	<gl/gl.h>
+	<iostream>
+	<fstream>
+	"Texture2D.h"
+
+1495183886 source:g:\gra - projekt\26.05.2017 vol.3\framework_mario_levels_text\chimeny.cpp
+	"Chimeny.h"
+
+1495183860 g:\gra - projekt\26.05.2017 vol.3\framework_mario_levels_text\chimeny.h
+	"Entity.h"
+
+1495140864 g:\gra - projekt\26.05.2017 vol.3\framework_mario_levels_text\entity.h
+	"Sprite.h"
+	"ComponentManager.h"
+
+1386210566 g:\gra - projekt\26.05.2017 vol.3\framework_mario_levels_text\sprite.h
+	"float2.hpp"
+
+1386210566 g:\gra - projekt\26.05.2017 vol.3\framework_mario_levels_text\float2.hpp
+	<math.h>
+
+1495200904 g:\gra - projekt\26.05.2017 vol.3\framework_mario_levels_text\componentmanager.h
+	<iostream>
+	<list>
+
+1495705354 source:g:\gra - projekt\26.05.2017 vol.3\framework_mario_levels_text\coin.cpp
+	"Coin.h"
+	"ComponentManager.h"
+	"ResourceFactory.h"
+	"Terrain.h"
+	"Goomba.h"
+	"Chimeny.h"
+
+1495443746 g:\gra - projekt\26.05.2017 vol.3\framework_mario_levels_text\coin.h
+	"Entity.h"
+
+1386210566 g:\gra - projekt\26.05.2017 vol.3\framework_mario_levels_text\resourcefactory.h
+	<map>
+	"Texture2D.h"
+
+1386210566 g:\gra - projekt\26.05.2017 vol.3\framework_mario_levels_text\texture2d.h
+
+1495197694 g:\gra - projekt\26.05.2017 vol.3\framework_mario_levels_text\terrain.h
+	<iostream>
+	<vector>
+	"Sprite.h"
+
+1495701204 g:\gra - projekt\26.05.2017 vol.3\framework_mario_levels_text\goomba.h
+	"Entity.h"
+	<ctime>
+
+1386210566 source:g:\gra - projekt\26.05.2017 vol.3\framework_mario_levels_text\componentmanager.cpp
+	"ComponentManager.h"
+
+1495192772 source:g:\gra - projekt\26.05.2017 vol.3\framework_mario_levels_text\entity.cpp
+	<iostream>
+	"Entity.h"
+
+1495824282 source:g:\gra - projekt\26.05.2017 vol.3\framework_mario_levels_text\fire.cpp
+	"fire.h"
+	"ComponentManager.h"
+	"ResourceFactory.h"
+	"Terrain.h"
+	"Goomba.h"
+	"Chimeny.h"
+	<cmath>
+	<ctime>
+
+1495824500 g:\gra - projekt\26.05.2017 vol.3\framework_mario_levels_text\fire.h
+	"Entity.h"
+
+1495824616 source:g:\gra - projekt\26.05.2017 vol.3\framework_mario_levels_text\fireone.cpp
+	"fireone.h"
+	"ComponentManager.h"
+	"ResourceFactory.h"
+	"Terrain.h"
+	"Goomba.h"
+	"Chimeny.h"
+	<cmath>
+	<ctime>
+
+1495824588 g:\gra - projekt\26.05.2017 vol.3\framework_mario_levels_text\fireone.h
+	"Entity.h"
+
+1495714204 source:g:\gra - projekt\26.05.2017 vol.3\framework_mario_levels_text\goomba.cpp
+	"Goomba.h"
+	"Coin.h"
+	"ResourceFactory.h"
+	"Terrain.h"
+	"Ret.h"
+	"Chimeny.h"
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<iostream>
+	"ComponentManager.h"
+	"Mario.h"
+	"Luigi.h"
+
+1495127244 g:\gra - projekt\26.05.2017 vol.3\framework_mario_levels_text\ret.h
+	"Entity.h"
+
+1495738706 g:\gra - projekt\26.05.2017 vol.3\framework_mario_levels_text\mario.h
+	"Entity.h"
+
+1495738710 g:\gra - projekt\26.05.2017 vol.3\framework_mario_levels_text\luigi.h
+	"Entity.h"
+
+1495824776 source:g:\gra - projekt\26.05.2017 vol.3\framework_mario_levels_text\luigi.cpp
+	<stdlib.h>
+	"Luigi.h"
+	"ResourceFactory.h"
+	"Terrain.h"
+	"Coin.h"
+	"Mario.h"
+	"Goomba.h"
+	"Power.h"
+	"fire.h"
+	"fireone.h"
+	<gl/glut.h>
+
+1495201168 g:\gra - projekt\26.05.2017 vol.3\framework_mario_levels_text\power.h
+	"Entity.h"
+	<ctime>
+
+1495826420 source:g:\gra - projekt\26.05.2017 vol.3\framework_mario_levels_text\main.cpp
+	<windows.h>
+	<gl/glut.h>
+	<iostream>
+	<sstream>
+	"Sprite.h"
+	"Power.h"
+	"Luigi.h"
+	"Goomba.h"
+	"Mario.h"
+	"ComponentManager.h"
+	"ResourceFactory.h"
+	"Terrain.h"
+	"Coin.h"
+	"fire.h"
+	"SpriteText.h"
+
+1495739914 g:\gra - projekt\26.05.2017 vol.3\framework_mario_levels_text\spritetext.h
+	"Sprite.h"
+	<string>
+
+1495824850 source:g:\gra - projekt\26.05.2017 vol.3\framework_mario_levels_text\mario.cpp
+	<stdlib.h>
+	"Power.h"
+	"Mario.h"
+	"Luigi.h"
+	"ResourceFactory.h"
+	"Terrain.h"
+	"Coin.h"
+	"Goomba.h"
+	"Sprite.h"
+	"SpriteText.h"
+	"fire.h"
+	"fireone.h"
+
+1495100534 source:g:\gra - projekt\26.05.2017 vol.3\framework_mario_levels_text\player.cpp
+	<stdlib.h>
+	"Player.h"
+	"ResourceFactory.h"
+	"Terrain.h"
+	"Coin.h"
+	"Goomba.h"
+	<gl/glut.h>
+
+1495099534 g:\gra - projekt\26.05.2017 vol.3\framework_mario_levels_text\player.h
+	"Entity.h"
+
+1495802868 source:g:\gra - projekt\26.05.2017 vol.3\framework_mario_levels_text\portal.cpp
+	"Portal.h"
+	"Luigi.h"
+	"Mario.h"
+	"Goomba.h"
+	"Coin.h"
+	"fire.h"
+
+1495124622 g:\gra - projekt\26.05.2017 vol.3\framework_mario_levels_text\portal.h
+	"Entity.h"
+
+1495705308 source:g:\gra - projekt\26.05.2017 vol.3\framework_mario_levels_text\portalt.cpp
+	"PortalT.h"
+	"Luigi.h"
+	"Mario.h"
+	"Goomba.h"
+	"Coin.h"
+
+1495124742 g:\gra - projekt\26.05.2017 vol.3\framework_mario_levels_text\portalt.h
+	"Entity.h"
+
+1495798666 source:g:\gra - projekt\26.05.2017 vol.3\framework_mario_levels_text\power.cpp
+	"Power.h"
+	"Goomba.h"
+	"Goomba.h"
+	<ctime>
+
+1386210566 source:g:\gra - projekt\26.05.2017 vol.3\framework_mario_levels_text\resourcefactory.cpp
+	"ResourceFactory.h"
+	<iostream>
+
+1495444992 source:g:\gra - projekt\26.05.2017 vol.3\framework_mario_levels_text\ret.cpp
+	"Ret.h"
+	"Goomba.h"
+	"Coin.h"
+	<cstdlib>
+	<ctime>
+
+1495182726 source:g:\gra - projekt\26.05.2017 vol.3\framework_mario_levels_text\sky.cpp
+	"Sky.h"
+
+1495182660 g:\gra - projekt\26.05.2017 vol.3\framework_mario_levels_text\sky.h
+	"Entity.h"
+
+1386210566 source:g:\gra - projekt\26.05.2017 vol.3\framework_mario_levels_text\sprite.cpp
+	<windows.h>
+	<gl/gl.h>
+	"Sprite.h"
+	"Texture2D.h"
+
+1495739914 source:g:\gra - projekt\26.05.2017 vol.3\framework_mario_levels_text\spritetext.cpp
+	<gl/gl.h>
+	<sstream>
+	"SpriteText.h"
+
+1495827688 source:g:\gra - projekt\26.05.2017 vol.3\framework_mario_levels_text\terrain.cpp
+	"Terrain.h"
+	<windows.h>
+	<gl/gl.h>
+	<fstream>
+	<iostream>
+	"Power.h"
+	"fire.h"
+	"fireone.h"
+	"Ret.h"
+	"PortalT.h"
+	"Portal.h"
+	"Mario.h"
+	"Luigi.h"
+	"Coin.h"
+	"Sky.h"
+	"Chimeny.h"
+	"Goomba.h"
+	"ResourceFactory.h"
+
+1495186584 source:g:\gra - projekt\26.05.2017 vol.3\framework_mario_levels_text\texture2d.cpp
+	<windows.h>
+	<gl/gl.h>
+	<iostream>
+	<fstream>
+	"Texture2D.h"
+
+1495183886 source:f:\gra - projekt\26.05.2017 vol.3 - kopia\adrian rzeœny\chimeny.cpp
+	"Chimeny.h"
+
+1495183860 f:\gra - projekt\26.05.2017 vol.3 - kopia\adrian rzeœny\chimeny.h
+	"Entity.h"
+
+1495140864 f:\gra - projekt\26.05.2017 vol.3 - kopia\adrian rzeœny\entity.h
+	"Sprite.h"
+	"ComponentManager.h"
+
+1386210566 f:\gra - projekt\26.05.2017 vol.3 - kopia\adrian rzeœny\sprite.h
+	"float2.hpp"
+
+1386210566 f:\gra - projekt\26.05.2017 vol.3 - kopia\adrian rzeœny\float2.hpp
+	<math.h>
+
+1495200904 f:\gra - projekt\26.05.2017 vol.3 - kopia\adrian rzeœny\componentmanager.h
+	<iostream>
+	<list>
+
+1495705354 source:f:\gra - projekt\26.05.2017 vol.3 - kopia\adrian rzeœny\coin.cpp
+	"Coin.h"
+	"ComponentManager.h"
+	"ResourceFactory.h"
+	"Terrain.h"
+	"Goomba.h"
+	"Chimeny.h"
+
+1495443746 f:\gra - projekt\26.05.2017 vol.3 - kopia\adrian rzeœny\coin.h
+	"Entity.h"
+
+1386210566 f:\gra - projekt\26.05.2017 vol.3 - kopia\adrian rzeœny\resourcefactory.h
+	<map>
+	"Texture2D.h"
+
+1386210566 f:\gra - projekt\26.05.2017 vol.3 - kopia\adrian rzeœny\texture2d.h
+
+1495197694 f:\gra - projekt\26.05.2017 vol.3 - kopia\adrian rzeœny\terrain.h
+	<iostream>
+	<vector>
+	"Sprite.h"
+
+1495701204 f:\gra - projekt\26.05.2017 vol.3 - kopia\adrian rzeœny\goomba.h
+	"Entity.h"
+	<ctime>
+
+1386210566 source:f:\gra - projekt\26.05.2017 vol.3 - kopia\adrian rzeœny\componentmanager.cpp
+	"ComponentManager.h"
+
+1495192772 source:f:\gra - projekt\26.05.2017 vol.3 - kopia\adrian rzeœny\entity.cpp
+	<iostream>
+	"Entity.h"
+
+1495824282 source:f:\gra - projekt\26.05.2017 vol.3 - kopia\adrian rzeœny\fire.cpp
+	"fire.h"
+	"ComponentManager.h"
+	"ResourceFactory.h"
+	"Terrain.h"
+	"Goomba.h"
+	"Chimeny.h"
+	<cmath>
+	<ctime>
+
+1495824500 f:\gra - projekt\26.05.2017 vol.3 - kopia\adrian rzeœny\fire.h
+	"Entity.h"
+
+1495824616 source:f:\gra - projekt\26.05.2017 vol.3 - kopia\adrian rzeœny\fireone.cpp
+	"fireone.h"
+	"ComponentManager.h"
+	"ResourceFactory.h"
+	"Terrain.h"
+	"Goomba.h"
+	"Chimeny.h"
+	<cmath>
+	<ctime>
+
+1495824588 f:\gra - projekt\26.05.2017 vol.3 - kopia\adrian rzeœny\fireone.h
+	"Entity.h"
+
+1495714204 source:f:\gra - projekt\26.05.2017 vol.3 - kopia\adrian rzeœny\goomba.cpp
+	"Goomba.h"
+	"Coin.h"
+	"ResourceFactory.h"
+	"Terrain.h"
+	"Ret.h"
+	"Chimeny.h"
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<iostream>
+	"ComponentManager.h"
+	"Mario.h"
+	"Luigi.h"
+
+1495127244 f:\gra - projekt\26.05.2017 vol.3 - kopia\adrian rzeœny\ret.h
+	"Entity.h"
+
+1495738706 f:\gra - projekt\26.05.2017 vol.3 - kopia\adrian rzeœny\mario.h
+	"Entity.h"
+
+1495738710 f:\gra - projekt\26.05.2017 vol.3 - kopia\adrian rzeœny\luigi.h
+	"Entity.h"
+
+1495824776 source:f:\gra - projekt\26.05.2017 vol.3 - kopia\adrian rzeœny\luigi.cpp
+	<stdlib.h>
+	"Luigi.h"
+	"ResourceFactory.h"
+	"Terrain.h"
+	"Coin.h"
+	"Mario.h"
+	"Goomba.h"
+	"Power.h"
+	"fire.h"
+	"fireone.h"
+	<gl/glut.h>
+
+1495201168 f:\gra - projekt\26.05.2017 vol.3 - kopia\adrian rzeœny\power.h
+	"Entity.h"
+	<ctime>
+
+1495826420 source:f:\gra - projekt\26.05.2017 vol.3 - kopia\adrian rzeœny\main.cpp
+	<windows.h>
+	<gl/glut.h>
+	<iostream>
+	<sstream>
+	"Sprite.h"
+	"Power.h"
+	"Luigi.h"
+	"Goomba.h"
+	"Mario.h"
+	"ComponentManager.h"
+	"ResourceFactory.h"
+	"Terrain.h"
+	"Coin.h"
+	"fire.h"
+	"SpriteText.h"
+
+1495739914 f:\gra - projekt\26.05.2017 vol.3 - kopia\adrian rzeœny\spritetext.h
+	"Sprite.h"
+	<string>
+
+1495824850 source:f:\gra - projekt\26.05.2017 vol.3 - kopia\adrian rzeœny\mario.cpp
+	<stdlib.h>
+	"Power.h"
+	"Mario.h"
+	"Luigi.h"
+	"ResourceFactory.h"
+	"Terrain.h"
+	"Coin.h"
+	"Goomba.h"
+	"Sprite.h"
+	"SpriteText.h"
+	"fire.h"
+	"fireone.h"
+
+1495100534 source:f:\gra - projekt\26.05.2017 vol.3 - kopia\adrian rzeœny\player.cpp
+	<stdlib.h>
+	"Player.h"
+	"ResourceFactory.h"
+	"Terrain.h"
+	"Coin.h"
+	"Goomba.h"
+	<gl/glut.h>
+
+1495099534 f:\gra - projekt\26.05.2017 vol.3 - kopia\adrian rzeœny\player.h
+	"Entity.h"
+
+1495802868 source:f:\gra - projekt\26.05.2017 vol.3 - kopia\adrian rzeœny\portal.cpp
+	"Portal.h"
+	"Luigi.h"
+	"Mario.h"
+	"Goomba.h"
+	"Coin.h"
+	"fire.h"
+
+1495124622 f:\gra - projekt\26.05.2017 vol.3 - kopia\adrian rzeœny\portal.h
+	"Entity.h"
+
+1495705308 source:f:\gra - projekt\26.05.2017 vol.3 - kopia\adrian rzeœny\portalt.cpp
+	"PortalT.h"
+	"Luigi.h"
+	"Mario.h"
+	"Goomba.h"
+	"Coin.h"
+
+1495124742 f:\gra - projekt\26.05.2017 vol.3 - kopia\adrian rzeœny\portalt.h
+	"Entity.h"
+
+1495798666 source:f:\gra - projekt\26.05.2017 vol.3 - kopia\adrian rzeœny\power.cpp
+	"Power.h"
+	"Goomba.h"
+	"Goomba.h"
+	<ctime>
+
+1386210566 source:f:\gra - projekt\26.05.2017 vol.3 - kopia\adrian rzeœny\resourcefactory.cpp
+	"ResourceFactory.h"
+	<iostream>
+
+1495444992 source:f:\gra - projekt\26.05.2017 vol.3 - kopia\adrian rzeœny\ret.cpp
+	"Ret.h"
+	"Goomba.h"
+	"Coin.h"
+	<cstdlib>
+	<ctime>
+
+1495182726 source:f:\gra - projekt\26.05.2017 vol.3 - kopia\adrian rzeœny\sky.cpp
+	"Sky.h"
+
+1495182660 f:\gra - projekt\26.05.2017 vol.3 - kopia\adrian rzeœny\sky.h
+	"Entity.h"
+
+1386210566 source:f:\gra - projekt\26.05.2017 vol.3 - kopia\adrian rzeœny\sprite.cpp
+	<windows.h>
+	<gl/gl.h>
+	"Sprite.h"
+	"Texture2D.h"
+
+1495739914 source:f:\gra - projekt\26.05.2017 vol.3 - kopia\adrian rzeœny\spritetext.cpp
+	<gl/gl.h>
+	<sstream>
+	"SpriteText.h"
+
+1495827688 source:f:\gra - projekt\26.05.2017 vol.3 - kopia\adrian rzeœny\terrain.cpp
+	"Terrain.h"
+	<windows.h>
+	<gl/gl.h>
+	<fstream>
+	<iostream>
+	"Power.h"
+	"fire.h"
+	"fireone.h"
+	"Ret.h"
+	"PortalT.h"
+	"Portal.h"
+	"Mario.h"
+	"Luigi.h"
+	"Coin.h"
+	"Sky.h"
+	"Chimeny.h"
+	"Goomba.h"
+	"ResourceFactory.h"
+
+1495186584 source:f:\gra - projekt\26.05.2017 vol.3 - kopia\adrian rzeœny\texture2d.cpp
+	<windows.h>
+	<gl/gl.h>
+	<iostream>
+	<fstream>
+	"Texture2D.h"
+
+1495183886 source:l:\nowy folder\adrian rzeœny\chimeny.cpp
+	"Chimeny.h"
+
+1495183860 l:\nowy folder\adrian rzeœny\chimeny.h
+	"Entity.h"
+
+1495140864 l:\nowy folder\adrian rzeœny\entity.h
+	"Sprite.h"
+	"ComponentManager.h"
+
+1386210566 l:\nowy folder\adrian rzeœny\sprite.h
+	"float2.hpp"
+
+1386210566 l:\nowy folder\adrian rzeœny\float2.hpp
+	<math.h>
+
+1495200904 l:\nowy folder\adrian rzeœny\componentmanager.h
+	<iostream>
+	<list>
+
+1495705354 source:l:\nowy folder\adrian rzeœny\coin.cpp
+	"Coin.h"
+	"ComponentManager.h"
+	"ResourceFactory.h"
+	"Terrain.h"
+	"Goomba.h"
+	"Chimeny.h"
+
+1495443746 l:\nowy folder\adrian rzeœny\coin.h
+	"Entity.h"
+
+1386210566 l:\nowy folder\adrian rzeœny\resourcefactory.h
+	<map>
+	"Texture2D.h"
+
+1386210566 l:\nowy folder\adrian rzeœny\texture2d.h
+
+1495197694 l:\nowy folder\adrian rzeœny\terrain.h
+	<iostream>
+	<vector>
+	"Sprite.h"
+
+1495701204 l:\nowy folder\adrian rzeœny\goomba.h
+	"Entity.h"
+	<ctime>
+
+1386210566 source:l:\nowy folder\adrian rzeœny\componentmanager.cpp
+	"ComponentManager.h"
+
+1495192772 source:l:\nowy folder\adrian rzeœny\entity.cpp
+	<iostream>
+	"Entity.h"
+
+1495824282 source:l:\nowy folder\adrian rzeœny\fire.cpp
+	"fire.h"
+	"ComponentManager.h"
+	"ResourceFactory.h"
+	"Terrain.h"
+	"Goomba.h"
+	"Chimeny.h"
+	<cmath>
+	<ctime>
+
+1495824500 l:\nowy folder\adrian rzeœny\fire.h
+	"Entity.h"
+
+1495824616 source:l:\nowy folder\adrian rzeœny\fireone.cpp
+	"fireone.h"
+	"ComponentManager.h"
+	"ResourceFactory.h"
+	"Terrain.h"
+	"Goomba.h"
+	"Chimeny.h"
+	<cmath>
+	<ctime>
+
+1495824588 l:\nowy folder\adrian rzeœny\fireone.h
+	"Entity.h"
+
+1495714204 source:l:\nowy folder\adrian rzeœny\goomba.cpp
+	"Goomba.h"
+	"Coin.h"
+	"ResourceFactory.h"
+	"Terrain.h"
+	"Ret.h"
+	"Chimeny.h"
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<iostream>
+	"ComponentManager.h"
+	"Mario.h"
+	"Luigi.h"
+
+1495127244 l:\nowy folder\adrian rzeœny\ret.h
+	"Entity.h"
+
+1495738706 l:\nowy folder\adrian rzeœny\mario.h
+	"Entity.h"
+
+1495738710 l:\nowy folder\adrian rzeœny\luigi.h
+	"Entity.h"
+
+1495824776 source:l:\nowy folder\adrian rzeœny\luigi.cpp
+	<stdlib.h>
+	"Luigi.h"
+	"ResourceFactory.h"
+	"Terrain.h"
+	"Coin.h"
+	"Mario.h"
+	"Goomba.h"
+	"Power.h"
+	"fire.h"
+	"fireone.h"
+	<gl/glut.h>
+
+1495201168 l:\nowy folder\adrian rzeœny\power.h
+	"Entity.h"
+	<ctime>
+
+1495826420 source:l:\nowy folder\adrian rzeœny\main.cpp
+	<windows.h>
+	<gl/glut.h>
+	<iostream>
+	<sstream>
+	"Sprite.h"
+	"Power.h"
+	"Luigi.h"
+	"Goomba.h"
+	"Mario.h"
+	"ComponentManager.h"
+	"ResourceFactory.h"
+	"Terrain.h"
+	"Coin.h"
+	"fire.h"
+	"SpriteText.h"
+
+1495739914 l:\nowy folder\adrian rzeœny\spritetext.h
+	"Sprite.h"
+	<string>
+
+1495824850 source:l:\nowy folder\adrian rzeœny\mario.cpp
+	<stdlib.h>
+	"Power.h"
+	"Mario.h"
+	"Luigi.h"
+	"ResourceFactory.h"
+	"Terrain.h"
+	"Coin.h"
+	"Goomba.h"
+	"Sprite.h"
+	"SpriteText.h"
+	"fire.h"
+	"fireone.h"
+
+1495100534 source:l:\nowy folder\adrian rzeœny\player.cpp
+	<stdlib.h>
+	"Player.h"
+	"ResourceFactory.h"
+	"Terrain.h"
+	"Coin.h"
+	"Goomba.h"
+	<gl/glut.h>
+
+1495099534 l:\nowy folder\adrian rzeœny\player.h
+	"Entity.h"
+
+1495802868 source:l:\nowy folder\adrian rzeœny\portal.cpp
+	"Portal.h"
+	"Luigi.h"
+	"Mario.h"
+	"Goomba.h"
+	"Coin.h"
+	"fire.h"
+
+1495124622 l:\nowy folder\adrian rzeœny\portal.h
+	"Entity.h"
+
+1495705308 source:l:\nowy folder\adrian rzeœny\portalt.cpp
+	"PortalT.h"
+	"Luigi.h"
+	"Mario.h"
+	"Goomba.h"
+	"Coin.h"
+
+1495124742 l:\nowy folder\adrian rzeœny\portalt.h
+	"Entity.h"
+
+1495798666 source:l:\nowy folder\adrian rzeœny\power.cpp
+	"Power.h"
+	"Goomba.h"
+	"Goomba.h"
+	<ctime>
+
+1386210566 source:l:\nowy folder\adrian rzeœny\resourcefactory.cpp
+	"ResourceFactory.h"
+	<iostream>
+
+1495444992 source:l:\nowy folder\adrian rzeœny\ret.cpp
+	"Ret.h"
+	"Goomba.h"
+	"Coin.h"
+	<cstdlib>
+	<ctime>
+
+1495182726 source:l:\nowy folder\adrian rzeœny\sky.cpp
+	"Sky.h"
+
+1495182660 l:\nowy folder\adrian rzeœny\sky.h
+	"Entity.h"
+
+1386210566 source:l:\nowy folder\adrian rzeœny\sprite.cpp
+	<windows.h>
+	<gl/gl.h>
+	"Sprite.h"
+	"Texture2D.h"
+
+1495739914 source:l:\nowy folder\adrian rzeœny\spritetext.cpp
+	<gl/gl.h>
+	<sstream>
+	"SpriteText.h"
+
+1495827688 source:l:\nowy folder\adrian rzeœny\terrain.cpp
+	"Terrain.h"
+	<windows.h>
+	<gl/gl.h>
+	<fstream>
+	<iostream>
+	"Power.h"
+	"fire.h"
+	"fireone.h"
+	"Ret.h"
+	"PortalT.h"
+	"Portal.h"
+	"Mario.h"
+	"Luigi.h"
+	"Coin.h"
+	"Sky.h"
+	"Chimeny.h"
+	"Goomba.h"
+	"ResourceFactory.h"
+
+1495186584 source:l:\nowy folder\adrian rzeœny\texture2d.cpp
+	<windows.h>
+	<gl/gl.h>
+	<iostream>
+	<fstream>
+	"Texture2D.h"
+

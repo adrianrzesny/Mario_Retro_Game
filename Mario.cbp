@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="game" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/game" prefix_auto="1" extension_auto="1" />
+				<Option working_dir="bin/" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/game" prefix_auto="1" extension_auto="1" />
+				<Option working_dir="$(#glut)/bin" />
+				<Option object_output="obj/Release/" />
+				<Option type="0" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+			<Add directory="$(#glut.include)" />
+		</Compiler>
+		<Linker>
+			<Add library="glut32" />
+			<Add library="opengl32" />
+			<Add library="glu32" />
+			<Add library="winmm" />
+			<Add library="gdi32" />
+			<Add directory="$(#glut.lib)" />
+		</Linker>
+		<Unit filename="Coin.cpp" />
+		<Unit filename="Coin.h" />
+		<Unit filename="ComponentManager.cpp" />
+		<Unit filename="ComponentManager.h" />
+		<Unit filename="Entity.cpp" />
+		<Unit filename="Entity.h" />
+		<Unit filename="Goomba.cpp" />
+		<Unit filename="Goomba.h" />
+		<Unit filename="Luigi.cpp" />
+		<Unit filename="Luigi.h" />
+		<Unit filename="Mario.cpp" />
+		<Unit filename="Mario.h" />
+		<Unit filename="Player.cpp" />
+		<Unit filename="Player.h" />
+		<Unit filename="Portal.cpp" />
+		<Unit filename="Portal.h" />
+		<Unit filename="PortalT.cpp" />
+		<Unit filename="PortalT.h" />
+		<Unit filename="Power.cpp" />
+		<Unit filename="Power.h" />
+		<Unit filename="ResourceFactory.cpp" />
+		<Unit filename="ResourceFactory.h" />
+		<Unit filename="Ret.cpp" />
+		<Unit filename="Ret.h" />
+		<Unit filename="Sky.cpp" />
+		<Unit filename="Sky.h" />
+		<Unit filename="Sprite.cpp" />
+		<Unit filename="Sprite.h" />
+		<Unit filename="SpriteText.cpp" />
+		<Unit filename="SpriteText.h" />
+		<Unit filename="Terrain.cpp" />
+		<Unit filename="Terrain.h" />
+		<Unit filename="Texture2D.cpp" />
+		<Unit filename="Texture2D.h" />
+		<Unit filename="chimeny.cpp" />
+		<Unit filename="chimeny.h" />
+		<Unit filename="fire.cpp" />
+		<Unit filename="fire.h" />
+		<Unit filename="fireone.cpp" />
+		<Unit filename="fireone.h" />
+		<Unit filename="float2.hpp" />
+		<Unit filename="main.cpp" />
+		<Extensions>
+			<code_completion />
+			<envvars />
+			<debugger />
+			<lib_finder disable_auto="1" />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>
